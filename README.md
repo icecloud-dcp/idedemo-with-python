@@ -18,3 +18,9 @@ function fancyAlert(arg) {
         $.facebox({div:'#foo'})
       }
     }
+
+```
+def foo():
+    if not bar:
+        return True 
+```
