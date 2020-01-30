@@ -1,0 +1,16 @@
+### GET Method
+GET http://httpbin.org/json HTTP/1.1
+
+### GET Method with Parameters
+GET http://httpbin.org/get?name="Caleb"&School="Keiin"
+### POST Method 
+POST http://httpbin.org/post HTTP/1.1
+
+### POST Method with parameters and Data
+POST http://httpbin.org/post HTTP/1.1
+Name: "Caleb Park"
+Affiliation: "Keiin Int. Institute"
+
+{
+    "Subject": "Python Advanced"
+}
