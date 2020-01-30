@@ -6,3 +6,10 @@
 `print(sys.version_info)
 print(list(fibo(20)))
 print(sum(list(fibo(20))))`
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
