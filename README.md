@@ -19,7 +19,7 @@ function fancyAlert(arg) {
       }
     }
 
-```
+```python
 def foo():
     if not bar:
         return True 
