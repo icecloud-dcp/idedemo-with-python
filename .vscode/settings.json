@@ -1,10 +1,11 @@
-{
-    "python.testing.unittestArgs": [
-        "-v",
-        "-s",
-        ".",
-        "-p",
-        "*test*.py"
-    ],
-    "python.testing.unittestEnabled": true
-}
+[
+    {
+        "python.testing.unittestEnabled": true
+    },
+    {
+        "backgroundColor": "transparent",
+        "color": "#3498DB",
+        "strikethrough": false,
+        "tag": "?"
+    }
+]
