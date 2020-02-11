@@ -14,5 +14,5 @@ def fibo(n):
 
 
 # Calculate Fibonacci number
-result = fibo(10)
+result = fibo(15)
 print('fibo(10)='+str(result))
